@@ -2,33 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Classification with Graph Neural Networks](/sample_page)
+<img src=""/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Using Skip Connections to Eliminate Singularities](/pdf/sample_presentation.pdf)
+<img src="/images/skip_connection.png"/>
 
 ---
 
-### Category Name 2
+### Data Visualizations
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Errors in Hypothesis Testing](http://example.com/)
+
+___
+[Accept/Reject Algorithm](http://example.com/)
+
 
 ---
 
+### Miscellaneous
 
-
+[A portfolio website]()
+<img src="/images/portfolio_site.png">
 
 ---
 

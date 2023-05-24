@@ -5,11 +5,11 @@
 ### Deep Learning
 
 [Learning Representations of Molecular Graphs with Graph Isomorphism Network](https://github.com/bparker9/graphnn)
-<img src="/images/molgraph.png"/>
+<img src="/images/molgraph.png">
 
 ---
 [Using Skip Connections to Eliminate Singularities](https://github.com/bparker9/skipconnections)
-<img src="/images/skip_connection.png"/>
+<img src="/images/skip_connection.png">
 
 ---
 
@@ -17,7 +17,7 @@
 
 ___
 [Generating Random Variables](https://github.com/bparker9/generating-random-variables)
-
+<img src="images/grv_screenshot.png">
 
 ---
 

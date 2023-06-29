@@ -1,10 +1,11 @@
 ## Portfolio
 ---
 
-###Applications
+### Applications
 
 [Sentiment Analysis Web App](https://github.com/bparker9/sentiment.git)
 <img src="images/sentiment.png">
+
 ---
 
 ### Deep Learning
